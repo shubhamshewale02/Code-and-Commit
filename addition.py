@@ -1,6 +1,4 @@
-x = 5
-y = 22
-a = x + y
-print(a)
-b = x - y
-print(b)
+a = int(input("Enter First Number :"))
+b = int(input("Enter Second Number :"))
+c = a + b
+print(c)
